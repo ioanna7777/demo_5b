@@ -1,6 +1,4 @@
-Color Palette Generator
-
-Това е примерно задание. 
+. 
 
 
 Description (Описание)
