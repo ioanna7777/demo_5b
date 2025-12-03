@@ -6,6 +6,7 @@ Description (Описание)
 Какво включва?
 
 
+
 3. Features (Функционалности)
 
 Изброй основните възможности на проекта.
@@ -18,6 +19,7 @@ Description (Описание)
 Запис на палитрата като JSON/PNG
 
 Визуализиране на цветове в UI
+
 
 
 4. Technologies Used (Използвани технологии)
@@ -35,6 +37,7 @@ Matplotlib
 K-means clustering
 
 
+
 5. Installation (Инсталация)
 
 Инструкции как да се стартира проектът локално.
@@ -44,6 +47,7 @@ K-means clustering
 git clone https://github.com/username/project-name.git
 cd project-name
 pip install -r requirements.txt
+
 
 
 6. Usage (Употреба)
